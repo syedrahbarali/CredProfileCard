@@ -6,8 +6,6 @@ A beautiful profile screen UI inspired by the CRED app, built with React Native 
 
 <img src="./Assignment-android.jpg" alt="Profile UI Screenshot" width="300" />
 
-> **Note:** Replace `Assignment-android.jpg` with your actual screenshot file in the project root for best preview.
-
 ---
 
 ## 🚀 Getting Started
@@ -17,8 +15,8 @@ Follow these steps to initialize and run the project on your local machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd cred-profile-ui
+git clone https://github.com/syedrahbarali/CredProfileCard
+cd CredProfileCard
 ```
 
 ### 2. Install Dependencies
@@ -45,14 +43,6 @@ npx expo start
 
 - To change the profile name or image, edit the `App.js` file.
 - For any UI changes, update the styles and components in `App.js`.
-
----
-
-## 📸 Adding a Screenshot
-
-1. Run the app on your device or emulator.
-2. Take a screenshot of the profile screen.
-3. Save the screenshot as `screenshot.png` in the project root directory.
 
 ---
 
